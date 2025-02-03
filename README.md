@@ -21,5 +21,8 @@ Enter your choice: 1
 Enter Roll Number: 101
 Enter Name: John Doe
 Enter Marks: 85.5
-
+Enter your choice: 2
+101 John Doe  85.5
+Enter your choice: 3
+Exit
 the user adds a student's details with Roll Number 101, Name John Doe, and Marks 85.5.
